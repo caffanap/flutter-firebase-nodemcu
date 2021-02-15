@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "345929828714",
+    "firebase_url": "https://iotflutter.firebaseio.com",
+    "project_id": "iotflutter",
+    "storage_bucket": "iotflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345929828714:android:4e0385c5f1277d31493d13",
+        "android_client_info": {
+          "package_name": "com.iotnode.affan.iotflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345929828714-i2ccjcfvk8hg11shmib0beltpuc1a8v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRWxg8iphih4AnTEKXZh2NpGmE9as2ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345929828714-i2ccjcfvk8hg11shmib0beltpuc1a8v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345929828714:android:4335614062d0853c493d13",
+        "android_client_info": {
+          "package_name": "com.nodemcu.firebase.nodefire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345929828714-i2ccjcfvk8hg11shmib0beltpuc1a8v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRWxg8iphih4AnTEKXZh2NpGmE9as2ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345929828714-i2ccjcfvk8hg11shmib0beltpuc1a8v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
